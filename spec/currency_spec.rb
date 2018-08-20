@@ -1,3 +1,5 @@
+require "spec_helper"
+
 module Xrates
   RSpec.describe Currency do
 
